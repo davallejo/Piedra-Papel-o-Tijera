@@ -28,11 +28,11 @@ Este proyecto tiene como objetivo desarrollar un programa que juegue al clásico
 
 Las pruebas unitarias están disponibles en el archivo `test_module.py`, el cual se ha importado en `main.py` para facilitar la ejecución. Las pruebas se pueden ejecutar automáticamente descomentando la última línea en `main.py`.
 
+![image](https://github.com/user-attachments/assets/a29b6ef1-e285-4f05-8df8-6c51ced2039b)
+
 ## Ejemplo de Uso
 
 Para probar la función `player` contra el bot `quincy` en 1000 juegos y visualizar los resultados de cada juego, se puede utilizar el siguiente comando en `main.py`:
 
 ```python
 play(player, quincy, 1000, verbose=True)
-
-![image](https://github.com/user-attachments/assets/5ee9af76-6622-488c-be1e-2ef893948e86)

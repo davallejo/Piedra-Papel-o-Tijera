@@ -30,3 +30,7 @@ Para probar la función `player` contra el bot `quincy` en 1000 juegos y visuali
 
 ```python
 play(player, quincy, 1000, verbose=True)
+
+## Autor
+
+Diego Vallejo

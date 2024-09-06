@@ -35,3 +35,4 @@ Para probar la función `player` contra el bot `quincy` en 1000 juegos y visuali
 ```python
 play(player, quincy, 1000, verbose=True)
 
+![image](https://github.com/user-attachments/assets/5ee9af76-6622-488c-be1e-2ef893948e86)
